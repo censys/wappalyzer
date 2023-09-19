@@ -2101,7 +2101,7 @@
     "js": {
       "deepMiner": ""
     },
-    "scriptSrc": "deepMiner\\.js",
+    "scriptSrc": "deepMiner(\\.min)?\\.js",
     "website": "https://github.com/deepwn/deepMiner"
   }
 }
